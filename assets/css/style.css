@@ -1,0 +1,11 @@
+body{
+	background-color:#ededed;
+}
+
+#todoContainer li{
+	font-size:32px;
+}
+
+#todoContainer i{
+	cursor:pointer;
+}
